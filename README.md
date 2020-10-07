@@ -46,4 +46,6 @@ Compile and Publish are out of the scope for this example.
   - WARNING: This guide is **heavily** class-component focused, you need to understand Oriented Object Programming.
 - [Introducing Hooks(Spanish)](https://es.reactjs.org/docs/hooks-intro.html)
   - Hooks are the perfect alternative to avoid using class-component to render objects
+- [Udemy - Modern React with Redux [2020 Update]](https://www.udemy.com/course/react-redux/)
+- [Udemy - The Modern Javascript Bootcamp Course (2020)](https://www.udemy.com/course/javascript-beginners-complete-tutorial/)
 
